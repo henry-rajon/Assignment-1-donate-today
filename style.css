@@ -102,12 +102,51 @@ body{
     text-align: center;
 }
 
-
-
-
-
-
-
+/* Donate Plan CSS Code */
+.donate-plan-area{
+    margin-bottom: 100px;
+}
+.donate-plan-content{
+    text-align: center;
+}
+.donate-plan-content h1{
+        font-size: 45px;
+        color: #333;
+        margin-bottom: 20px;
+}
+.donate-plan-content h2{
+    font-weight: 400;
+    font-size: 18px;
+    padding: 0 315px;
+    color: gray;
+}
+.donate-plan{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+.single-donate-plan {
+    flex-basis: 280px;
+    padding: 30px;
+}
+#food{
+    background-color: #EDF5F6;
+}
+#shelter{
+    background-color: #FFEEEE;
+}
+#education{
+    background-color: #FFF4D6;
+}
+.single-donate-plan img{}
+.single-donate-plan h1 {
+    color: #333;
+    font-size: 20px;
+}
+.single-donate-plan p{
+    color: #989898;
+}
 
 
 
