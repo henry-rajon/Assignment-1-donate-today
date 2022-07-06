@@ -9,7 +9,7 @@ body{
 }
 /* Banner Css Code */
 .banner-area{
-    background-image: url(images/donation11.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -34,6 +34,7 @@ body{
     font-weight: 400;
     font-size: 18px;
     padding: 11px 270px;
+    margin-bottom: 35px;
 }
 .btn{
     background-color: #FF5959;
@@ -145,6 +146,7 @@ body{
 .single-donate-plan h1 {
     color: #333;
     font-size: 20px;
+    margin: 15px 0px;
 }
 .single-donate-plan p{
     color: #989898;
