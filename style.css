@@ -14,7 +14,7 @@ body{
     background-position: center;
     background-size: cover;
     padding-bottom: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .banner{
     text-align: center;
@@ -149,6 +149,73 @@ body{
 .single-donate-plan p{
     color: #989898;
 }
+
+/* About Us CSS Code */
+.about-area{
+    margin-bottom: 100px;
+}
+.about-area h1{
+    text-align: center;
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.about{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.about-content {
+    width: 40%;
+    box-shadow: 3px 3px 14px 6px #ccc;
+    border-radius: 20px;
+    padding: 60px 25px;
+}
+.about-content h1 {
+    font-size: 22px;
+    color: #333;
+    font-weight: 600;
+    text-align: start;
+}
+.about-content p {
+    font-size: 15px;
+    color: #333;
+}
+.about-menu{
+    width: 20%;
+    padding-left: 10px;
+}
+.about-menu h1 {
+    font-size: 25px;
+    font-weight: 600;
+    text-align: start;
+    background-color: #0184A8;
+    padding: 7px 15px;
+    color: #fff;
+    margin-bottom: 0px;
+}
+.about-menu ul{
+    padding-left: 0px;
+    background-color: #E7F3F6;
+}
+.about-menu ul li{
+    list-style: none;
+}
+.about-menu ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 17px;
+    border-bottom: 1px solid #78BBCC;
+    display: block;
+    margin-bottom: 12px;
+    padding: 3px 0px 10px 15px;
+}
+
+
+
+
 
 /* Update CSS Code */
 .update-area{
