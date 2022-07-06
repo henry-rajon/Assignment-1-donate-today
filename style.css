@@ -52,7 +52,7 @@ body{
     text-align: center;
 }
 .donate-content h1 {
-    font-size: 45px;
+    font-size: 40px;
     color: #333;
     margin-bottom: 20px;
 }
@@ -112,9 +112,9 @@ body{
     text-align: center;
 }
 .donate-plan-content h1{
-        font-size: 45px;
-        color: #333;
-        margin-bottom: 20px;
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 20px;
 }
 .donate-plan-content h2{
     font-weight: 400;
@@ -150,6 +150,58 @@ body{
     color: #989898;
 }
 
+/* Update CSS Code */
+.update-area{
+    margin-bottom: 100px;
+}
+.update-content{
+    text-align: center;
+}
+.update-content h1{
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.update-content h2{
+    font-weight: 400;
+    font-size: 18px;
+    padding: 0 315px;
+    color: gray;
+}
+form{
+    background-color: #FFF4D6;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    padding: 80px 0;
+}
+form input {
+    padding: 10px;
+    font-size: 18px;
+    margin-right: -4px;
+    border-radius: 4px;
+    outline: none;
+    border: 0;
+    /* border: 1px solid #ddd;
+    border-right: 0; */
+    background-color: #ddd;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+form input[type="submit"]{
+    color: #fff;
+    background-color: #FF5959;
+    border-radius: 4px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+
+
+
+
 /* Footer CSS Code */
 footer{
     background-color: #0B0D17;
@@ -177,10 +229,3 @@ footer p{
 
 
 
-
-
-/*  */
-h6{
-    
-}
-/*  */
